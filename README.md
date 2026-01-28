@@ -1,12 +1,43 @@
-# React + Vite
+# ArabFilmDB
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ArabFilmDB is a modern movie database website for browsing and discovering
+Arabic and Gulf movies and TV series. The website focuses on clean design,
+fast performance, and a smooth user experience.
 
-Currently, two official plugins are available:
+## 🌍 Website Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ArabFilmDB allows visitors to explore movies and series through
+well-structured pages, categorized content, and intuitive navigation.
+The website is built using a modern React stack optimized for the web.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- React 19
+- Vite
+- React Router DOM
+- Redux Toolkit
+- Tailwind CSS
+- Framer Motion
+- Swiper.js
+- React Hook Form + Zod
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- RESTful APIs
+
+## ✨ Website Features
+
+- Movie & TV series listing pages
+- SEO-friendly page structure
+- Client-side routing for smooth navigation
+- Global state management using Redux Toolkit
+- Responsive design for all screen sizes
+- Form validation and user feedback
+- API-based dynamic content loading
+- Optimized build with Vite
+
+## 📂 Project Structure
+
